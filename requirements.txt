@@ -1,0 +1,20 @@
+
+# Supplier Risk Prediction Project
+# Python dependencies - All libraries required to run the complete project
+
+# Data manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Time Series Forecasting
+prophet
+
+# Data Generation
+faker
+
+# Web Application Dashboard
+streamlit
+plotly
